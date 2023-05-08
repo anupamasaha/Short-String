@@ -1,4 +1,4 @@
-course = '''
+mail = '''
 Hi Michael,
 
 Here's our first email to you.
@@ -7,4 +7,4 @@ Thank you,
 The Support Team
  
 '''
-print(course)
+print(mail)
